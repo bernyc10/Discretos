@@ -1,0 +1,28 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 80 0 64 0
+LINE Normal -48 -16 -32 -16
+LINE Normal -48 16 -32 16
+LINE Normal -32 -48 64 0
+LINE Normal -32 48 -32 -48
+LINE Normal 64 0 -32 48
+LINE Normal 16 -24 16 -32
+LINE Normal 16 24 16 32
+LINE Normal -16 -12 -16 -20
+LINE Normal -21 -16 -12 -16
+LINE Normal -12 16 -19 16
+PIN 16 -32 BOTTOM 4
+PINATTR PinName vdda
+PINATTR SpiceOrder 1
+PIN -48 16 RIGHT 8
+PINATTR PinName inn
+PINATTR SpiceOrder 2
+PIN -48 -16 RIGHT 8
+PINATTR PinName inp
+PINATTR SpiceOrder 3
+PIN 16 32 TOP 8
+PINATTR PinName vssa
+PINATTR SpiceOrder 4
+PIN 80 0 LEFT 8
+PINATTR PinName out
+PINATTR SpiceOrder 5
