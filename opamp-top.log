@@ -1,0 +1,88 @@
+Circuit: * C:\Users\dario\OneDrive - Estudiantes ITCR\Escritorio\Trabajos\Discretos\opamp-top.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- BSIM3 MOSFETS ---
+Name:      m:x1:2      m:x1:1      m:x1:7      m:x1:3      m:x1:4
+Model:     x1:pmos     x1:pmos     x1:pmos     x1:nmos     x1:nmos
+Id:       -2.51e-05   -2.51e-05   -2.50e-06    2.51e-05    2.51e-05
+Vgs:      -1.06e+00   -1.06e+00   -1.06e+00    1.02e+00    1.02e+00
+Vds:      -1.06e+00   -1.06e+00   -1.49e-03    2.47e+00    2.47e+00
+Vbs:       0.00e+00    0.00e+00    0.00e+00   -1.48e+00   -1.48e+00
+Vth:      -8.46e-01   -8.46e-01   -8.53e-01    8.11e-01    8.11e-01
+Vdsat:    -1.97e-01   -1.97e-01   -1.94e-01    1.65e-01    1.65e-01
+Gm:        2.20e-04    2.20e-04    1.34e-05    2.94e-04    2.94e-04
+Gds:       8.17e-06    8.17e-06    1.67e-03    5.85e-06    5.85e-06
+Gmb        4.72e-05    4.72e-05    3.08e-06    2.74e-05    2.74e-05
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     2.74e-15    2.74e-15    2.88e-14    9.01e-16    9.01e-16
+Cgdov:     2.74e-15    2.74e-15    2.88e-14    9.01e-16    9.01e-16
+Cgbov:     3.89e-16    3.89e-16    3.89e-16    4.28e-16    4.28e-16
+dQgdVgb:   1.32e-14    1.32e-14    1.54e-13    6.06e-15    6.06e-15
+dQgdVdb:  -2.67e-15   -2.67e-15   -6.90e-14   -8.50e-16   -8.50e-16
+dQgdVsb:  -9.22e-15   -9.22e-15   -7.90e-14   -3.98e-15   -3.98e-15
+dQddVgb:  -5.77e-15   -5.77e-15   -7.67e-14   -2.50e-15   -2.50e-15
+dQddVdb:   2.70e-15    2.70e-15    6.28e-14    8.72e-16    8.72e-16
+dQddVsb:   3.76e-15    3.76e-15    2.49e-14    1.78e-15    1.78e-15
+dQbdVgb:  -1.67e-15   -1.67e-15   -8.25e-16   -1.07e-15   -1.07e-15
+dQbdVdb:   9.93e-18    9.93e-18   -2.77e-14    8.20e-18    8.20e-18
+dQbdVsb:  -1.04e-15   -1.04e-15    4.56e-16   -4.86e-16   -4.86e-16
+
+Name:      m:x1:5      m:x1:6      m:x1:8
+Model:     x1:nmos     x1:nmos     x1:nmos
+Id:        4.50e-05    5.01e-05    1.23e-11
+Vgs:       9.09e-01    9.09e-01    9.09e-01
+Vds:       9.09e-01    1.48e+00    5.00e+00
+Vbs:       0.00e+00    0.00e+00    0.00e+00
+Vth:       6.08e-01    5.99e-01    1.24e+00
+Vdsat:     2.01e-01    2.07e-01    3.57e-02
+Gm:        3.35e-04    3.56e-04    1.91e-10
+Gds:       1.05e-05    8.19e-06    4.42e-12
+Gmb        7.45e-05    7.88e-05    6.31e-11
+Cbd:       0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00
+Cgsov:     9.01e-16    9.01e-16    1.01e-16
+Cgdov:     9.01e-16    9.01e-16    1.01e-16
+Cgbov:     4.28e-16    4.28e-16    4.28e-16
+dQgdVgb:   6.18e-15    6.18e-15    8.24e-16
+dQgdVdb:  -8.60e-16   -8.60e-16   -1.01e-16
+dQgdVsb:  -4.03e-15   -4.03e-15   -1.01e-16
+dQddVgb:  -2.50e-15   -2.50e-15   -1.01e-16
+dQddVdb:   8.75e-16    8.74e-16    1.01e-16
+dQddVsb:   2.03e-15    2.03e-15    3.58e-20
+dQbdVgb:  -1.18e-15   -1.18e-15   -6.21e-16
+dQbdVdb:   1.23e-17    1.30e-17    2.59e-22
+dQbdVsb:  -9.27e-16   -9.30e-16    4.40e-20
+
+
+
+Date: Sat Oct 14 21:23:35 2023
+Total elapsed time: 0.685 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 16
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 10
+fillins = 12
+solver = Normal
+Avg thread counts: 4.0/0.0/4.0/4.0
+Matrix Compiler1: 1.56 KB object code size
+Matrix Compiler2: 1.19 KB object code size
