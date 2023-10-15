@@ -1,0 +1,9 @@
+Questionable use of curly braces in "m7 out n002 vdda vdda pmosc5 l=0.5u w={w7}"
+    Error: undefined symbol in: "[w7]"
+Circuit: * C:\Users\berny\Documents\TEC\VIII Semestre\CIRCUITOS DISCRETOS\Circuito\Circuito\sim2-w7\opamp-schem.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Fatal Error: Numerical value expected here: "w7)".

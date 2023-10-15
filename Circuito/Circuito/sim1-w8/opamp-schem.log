@@ -1,0 +1,9 @@
+Questionable use of curly braces in "m8 out n004 vssa vssa nmosc5 l=0.5u w={w8}"
+    Error: undefined symbol in: "[w8]"
+Circuit: * C:\Users\berny\Documents\TEC\VIII Semestre\CIRCUITOS DISCRETOS\Circuito\Circuito\sim1-w8\opamp-schem.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Fatal Error: Numerical value expected here: "w8)".

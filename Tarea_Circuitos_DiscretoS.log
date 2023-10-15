@@ -1,0 +1,12 @@
+Circuit: * C:\Users\berny\Documents\TEC\VIII Semestre\CIRCUITOS DISCRETOS\Tarea_Circuitos_DiscretoS.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Error on line 3 : m1 n001 n001 vdda vdda pmos l=0,5 w=10
+	 Unknown parameter "5"
+Error on line 10 : i1 vdda n004 i
+	 Unknown parameter "i"
+Fatal Error: This circuit does not have a conduction path to ground!
+   Please flag a node as ground.
